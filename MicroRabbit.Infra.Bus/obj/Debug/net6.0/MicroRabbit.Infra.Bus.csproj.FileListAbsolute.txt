@@ -1,0 +1,15 @@
+D:\CodeBase\VS 2022 Projects\SHELL\MS_Online_Shop\MicroRabbit.Infra.Bus\bin\Debug\net6.0\MicroRabbit.Infra.Bus.deps.json
+D:\CodeBase\VS 2022 Projects\SHELL\MS_Online_Shop\MicroRabbit.Infra.Bus\bin\Debug\net6.0\MicroRabbit.Infra.Bus.dll
+D:\CodeBase\VS 2022 Projects\SHELL\MS_Online_Shop\MicroRabbit.Infra.Bus\bin\Debug\net6.0\MicroRabbit.Infra.Bus.pdb
+D:\CodeBase\VS 2022 Projects\SHELL\MS_Online_Shop\MicroRabbit.Infra.Bus\bin\Debug\net6.0\MicroRabbit.Domain.Core.dll
+D:\CodeBase\VS 2022 Projects\SHELL\MS_Online_Shop\MicroRabbit.Infra.Bus\bin\Debug\net6.0\MicroRabbit.Domain.Core.pdb
+D:\CodeBase\VS 2022 Projects\SHELL\MS_Online_Shop\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.csproj.AssemblyReference.cache
+D:\CodeBase\VS 2022 Projects\SHELL\MS_Online_Shop\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeBase\VS 2022 Projects\SHELL\MS_Online_Shop\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.AssemblyInfoInputs.cache
+D:\CodeBase\VS 2022 Projects\SHELL\MS_Online_Shop\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.AssemblyInfo.cs
+D:\CodeBase\VS 2022 Projects\SHELL\MS_Online_Shop\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.csproj.CoreCompileInputs.cache
+D:\CodeBase\VS 2022 Projects\SHELL\MS_Online_Shop\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.csproj.CopyComplete
+D:\CodeBase\VS 2022 Projects\SHELL\MS_Online_Shop\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.dll
+D:\CodeBase\VS 2022 Projects\SHELL\MS_Online_Shop\MicroRabbit.Infra.Bus\obj\Debug\net6.0\refint\MicroRabbit.Infra.Bus.dll
+D:\CodeBase\VS 2022 Projects\SHELL\MS_Online_Shop\MicroRabbit.Infra.Bus\obj\Debug\net6.0\MicroRabbit.Infra.Bus.pdb
+D:\CodeBase\VS 2022 Projects\SHELL\MS_Online_Shop\MicroRabbit.Infra.Bus\obj\Debug\net6.0\ref\MicroRabbit.Infra.Bus.dll
